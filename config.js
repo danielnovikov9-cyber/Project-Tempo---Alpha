@@ -8,6 +8,6 @@
 //
 // NUNCA coloques aqui a chave "secret" / "service_role". Essa dá acesso total à base de dados.
 window.TEMPO_CONFIG = {
-  supabaseUrl: "https://pujrgnnywdcwbgsgknpj.supabase.co/rest/v1/",
+  supabaseUrl: "https://pujrgnnywdcwbgsgknpj.supabase.co",
   supabaseKey: "sb_publishable_85QWhKbYyFBQRd08r5f5oA_VTcIoKoJ"
 };
